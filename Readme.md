@@ -15,7 +15,7 @@ Adicionalmente, 2 arquétipos do maven são fornecidos:
 - com.acme.archetype.cpp:staticLibrary:0.0.1 para rapidamente criar projetos para bibliotecas estáticas
 - com.acme.archetype.cpp:executable:0.0.1 to para rapidamente criar projetos para executáveis
 
-## estrutura dos `pom.xml`
+## estrutura dos diretórios contendo os `pom.xml`
 
 ```bash
 .
