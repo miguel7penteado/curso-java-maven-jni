@@ -1,5 +1,9 @@
 # native-maven-plugin-example
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/miguel-penteado-760486a9/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/miguel7penteado)
+
 Um simples exemplo usando a biblioteca [Native Maven Plugin](https://www.mojohaus.org/maven-native/native-maven-plugin/) 
 para construir e distribuir bibliotecas estáticas C++ 
 (incluindo arquivos cabeçalho) para um repositório maven 
